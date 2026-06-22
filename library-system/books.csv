@@ -1,3 +1,7 @@
 id,judul,penulis,tahun,jumlah
-1,IF,Nisa,2026,40
-5,PGSD,NUR,2023,1
+001,Introduction to Algorithms,Thomas H. Cormen,2022,5
+002,Data Structures and Algorithms in Python,Michael T. Goodrich,2013,4
+003,Python Crash Course,Eric Matthes,2023,6
+004,Database System Concepts,Abraham Silberschatz,2019,3
+005,Computer Networks,Andrew S. Tanenbaum,2021,4
+006,Artificial Intelligence A Modern Approach,Stuart Russell,2021,2
